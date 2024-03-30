@@ -1,0 +1,31 @@
+say = print
+say("whoa ! I can't believe this works! :0")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

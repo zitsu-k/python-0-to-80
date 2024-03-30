@@ -1,0 +1,10 @@
+adjective1=input("Entre an adjective1:")
+noun=input("Entre an noun:")
+adjective2=input("Entre an adjective2:")
+verb=input("Entre an verb:")
+adjective3=input("Entre an adjective3:")
+
+print(f"Today i went to a {adjective1 } zoo,")
+print(f"In an exhibit , I saw {noun}.")
+print(f"our {noun } was {adjective2} and {verb}")
+print(f"i was {adjective3}")
